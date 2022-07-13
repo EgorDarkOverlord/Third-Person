@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 641098a9dcc162c479b99e6a89a415da, type: 3}
+  m_Name: PistolShootingInfo
+  m_EditorClassIdentifier: 
+  Damage: 20
+  FireRateInSeconds: 2
+  RequiredAmmoType: 0
+  MaxAmmo: 10
+  BulletProjectile: {fileID: 7339832503068947388, guid: faece8ebc426c254c968d45bcd0f537b, type: 3}
+  ShootingSound: {fileID: 8300000, guid: b65057875e942324cb711edd6f6f4126, type: 3}
+  ReloadSound: {fileID: 8300000, guid: 1a8dcb9148514d34885670d6a5dfde4e, type: 3}
+  NoiseSettings: {fileID: 11400000, guid: 7e722242161c0c7409376954733c0c32, type: 2}

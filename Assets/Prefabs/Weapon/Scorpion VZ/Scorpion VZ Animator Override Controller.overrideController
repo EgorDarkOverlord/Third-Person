@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Scorpion VZ Animator Override Controller
+  m_Controller: {fileID: 9100000, guid: 6dc550413ca4e214ab9ded38f178acec, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 301e7336d1724374ab863549a47af13d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 162a75b129860284dbe0264a5c7c788a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c13747329e0d63f4aacf4edf382ffba7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 82975ed3549cb6d449092a7335b2fed2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2c9f0f426101a4a449197fc8398bf589, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 399a0324e422ee6429a9642b5621d4aa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a5db82a96e32d994182788bae62b6b89, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 007c8e4a2c189144f91c20b104fc3a04, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3fa6ae847babee44ba02abbb6aa16fc2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e000a64ff16f23e46a2b1cbdbb5f4f14, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0535f29304761a4418dce3dfe34ed4d1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1450db6dd26b11f47af90d14f4454b60, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 840353acdfe589d4492b7a59b9871b85, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 66dcc7fb1602fff48a429a7e25a71ac4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cc91d91ea8cab604ab4de8195dba3f79, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ed6e865d48be2644895f76b9470f5f1, type: 2}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c4951d571eefb4fb1bfd9f48ac0d93, type: 3}
+  m_Name: M4A1 PickupInfo
+  m_EditorClassIdentifier: 
+  ArmedWeaponPrefab: {fileID: 1399738997823151476, guid: 6d9d54f06054e614fbfb486fcf781ae8, type: 3}
+  UnarmedWeaponPrefab: {fileID: 3031751582158629147, guid: fc95e5d3a66f43c43b40db361f108ea7, type: 3}

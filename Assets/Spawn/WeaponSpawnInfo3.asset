@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b16dad3d99818044be49718ce5f9cb9, type: 3}
+  m_Name: WeaponSpawnInfo3
+  m_EditorClassIdentifier: 
+  SpawnItems:
+  - SpawnObject: {fileID: 3188132865782820709, guid: e534b63c747e1bb4fbe6b8c46fd1f230, type: 3}
+    SpawnFactor: 2
+  - SpawnObject: {fileID: 3188132865782820709, guid: f9d02bd4246fe7a48b980a6f9efb23b9, type: 3}
+    SpawnFactor: 2
+  - SpawnObject: {fileID: 3188132865782820709, guid: 64774c61bf0ba4a4d9bf95c15d2eb975, type: 3}
+    SpawnFactor: 1
+  - SpawnObject: {fileID: 3188132865782820709, guid: 6d9d54f06054e614fbfb486fcf781ae8, type: 3}
+    SpawnFactor: 1
